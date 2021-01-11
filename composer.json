@@ -1,5 +1,5 @@
 {
-  "name": "interjar/bugsnag",
+  "name": "alucardatem/bugsnag",
   "description": "Magento 2 Bugsnag for remote debugging",
   "require": {
     "bugsnag/bugsnag": "^3.0.0"
